@@ -6,3 +6,5 @@ Gamesense++
 Gamesense++ final release recompiled with discord rpc removed.
 
 All clients are only for experimental use, make sure you are using latest forge 1.12.2 and this is the only client you have in your mods folder.
+
+And no, I don't know how to use github. Don't question my methods.
